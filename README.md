@@ -16,7 +16,7 @@ Installation
 To use this project, you need to have Python installed on your machine. The project does not have any external dependencies.
 
 Usage
-You can use the provided functions to encrypt and decrypt messages. Here’s a quick guide on how to use the functions:
+You can use the provided functions to encrypt and decrypt messages. 
 
 Contributing
 Contributions are welcome! If you would like to contribute to this project, please fork the repository, make your changes, and submit a pull request. Make sure to follow the coding standards and include tests for any new features.
